@@ -1,1 +1,2 @@
-introduction to git initialization
+my first commit changes
+learning with Mr.wealth
